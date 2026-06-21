@@ -1,3 +1,8 @@
+> **⚠️ PROYECTO ARCHIVADO**
+> Este repositorio ya no se mantiene activamente.
+> El desarrollo continúa en **[EDFCatalogoMultiplatform](../EDFCatalogoMultiplatform)**, que cubre macOS, iOS, Android, Web, Linux y Windows con un único codebase Flutter.
+> Se conserva aquí como referencia histórica de la implementación original en SwiftUI + macOS nativo.
+
 # EDF Catálogo de Tablas - Aplicación nativa para macOS
 
 Aplicación nativa para macOS que permite gestionar catálogos de tablas con integración a MongoDB Atlas y AWS S3 para el almacenamiento de archivos multimedia.
